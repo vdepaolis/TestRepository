@@ -1,0 +1,4 @@
+var closeAlert = '<div>click to sclose</div>';
+$(this).append(closeAlert);
+
+style="font-family:Arial;font-size:13px;font-weight:bold;white-space:nowrap;text-overflow:ellipsis;overflow:hidden;padding-top:9px;padding-left:7px;padding-bottom:0px;color:#000000
